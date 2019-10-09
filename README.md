@@ -22,5 +22,5 @@ Facilitate educational access and academic excellence through exceptional manage
 
 > website: glisteneducation.com
 
-![Glisten](Glisten.png)
+
 
