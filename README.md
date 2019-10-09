@@ -1,6 +1,9 @@
 # Glisten Project Solutions & Glisten Education
 ## Glisten Project Solutions
-Glisten Project is a full-service web design and development company in India with our head-office situated in Bangalore. We are a team of expert website designers, developers, and digital strategies. Through our unique result-driven solutions we deliver measurable outcomes that encourage our clients. Since 2013, we have worked with hundreds, of clients and recognized ourselves as one of the most trusted online solution providers for businesses in India.
+Glisten Project is a full-service web design and development company in India with our head-office situated in Bangalore.
+
+We are a team of expert website designers, developers, and digital strategies. Through our unique result-driven solutions we deliver measurable outcomes that encourage our clients. Since 2013, we have worked with hundreds, of clients and recognized ourselves as one of the most trusted online solution providers for businesses in India.
+
 Our potential to build on any platform desire to adapt to the client’s needs make us the ideal web solutions provider. Working with Glisten Project means you can be as hands-on as you wish! While we do have our own growth in mind. Our main focus is always to add value to our customers by refining their ideas and recognizing their goals through our half decade-long skills and experience.
 > website: http://www.glistenprojects.in/
 ## GLISTEN EDUCATION'S TRAINING
